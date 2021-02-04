@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ToTibis/ReactMovies/static/css/main.ba4f5cb4.chunk.css",
-    "main.js": "/ToTibis/ReactMovies/static/js/main.c87d7dc2.chunk.js",
-    "main.js.map": "/ToTibis/ReactMovies/static/js/main.c87d7dc2.chunk.js.map",
-    "runtime-main.js": "/ToTibis/ReactMovies/static/js/runtime-main.855583f8.js",
-    "runtime-main.js.map": "/ToTibis/ReactMovies/static/js/runtime-main.855583f8.js.map",
-    "static/js/2.0b8c2172.chunk.js": "/ToTibis/ReactMovies/static/js/2.0b8c2172.chunk.js",
-    "static/js/2.0b8c2172.chunk.js.map": "/ToTibis/ReactMovies/static/js/2.0b8c2172.chunk.js.map",
-    "index.html": "/ToTibis/ReactMovies/index.html",
-    "static/css/main.ba4f5cb4.chunk.css.map": "/ToTibis/ReactMovies/static/css/main.ba4f5cb4.chunk.css.map",
-    "static/js/2.0b8c2172.chunk.js.LICENSE.txt": "/ToTibis/ReactMovies/static/js/2.0b8c2172.chunk.js.LICENSE.txt"
+    "main.css": "/ReactMovies/static/css/main.ba4f5cb4.chunk.css",
+    "main.js": "/ReactMovies/static/js/main.c87d7dc2.chunk.js",
+    "main.js.map": "/ReactMovies/static/js/main.c87d7dc2.chunk.js.map",
+    "runtime-main.js": "/ReactMovies/static/js/runtime-main.c6904e54.js",
+    "runtime-main.js.map": "/ReactMovies/static/js/runtime-main.c6904e54.js.map",
+    "static/js/2.0b8c2172.chunk.js": "/ReactMovies/static/js/2.0b8c2172.chunk.js",
+    "static/js/2.0b8c2172.chunk.js.map": "/ReactMovies/static/js/2.0b8c2172.chunk.js.map",
+    "index.html": "/ReactMovies/index.html",
+    "static/css/main.ba4f5cb4.chunk.css.map": "/ReactMovies/static/css/main.ba4f5cb4.chunk.css.map",
+    "static/js/2.0b8c2172.chunk.js.LICENSE.txt": "/ReactMovies/static/js/2.0b8c2172.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.855583f8.js",
+    "static/js/runtime-main.c6904e54.js",
     "static/js/2.0b8c2172.chunk.js",
     "static/css/main.ba4f5cb4.chunk.css",
     "static/js/main.c87d7dc2.chunk.js"
