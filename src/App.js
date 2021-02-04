@@ -1,25 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import {Fragment, Component} from 'react';
+import Header from './layout/Header'
+import Footer from './layout/Footer'
+import Main from './layout/Main'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+export default class App extends Component {
+
+  constructor(props) {
+    super(props);
+
+    this.state = { movies: [] };
+  }
+
+
+  render() {
+    return (
+      <Fragment>
+        <div className="content">
+          <Header/>
+          <Main/>
+        </div>
+        <Footer/>
+      </Fragment>
+    )
+  }
 }
-
-export default App;
